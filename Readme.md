@@ -18,9 +18,11 @@ Atividades semanais do curso Bacharel em tecnologia da Informação - UNIVESP
 
 
 
-- Manipulação de variáveis e funções
-- Orientação a Objetos (POO)
+- Manipulação de variáveis e funções;
+- Orientação a Objetos (POO);
 - Dicionários, sets, tuplas;
+- Manipulação de arquivos JSON e Integração com APis;
+- Web Scraping;
 - Manipulação de arquivos;
 - Desenvolvimento de interfaces com biblioteca TKinter.
 
