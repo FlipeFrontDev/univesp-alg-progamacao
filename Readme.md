@@ -20,4 +20,4 @@ Atividades semanais do curso Bacharel em tecnologia da Informação - UNIVESP
 
 * Python;
 * Pycharm IDE;
-* Idle IDE
+* Idle Editor
